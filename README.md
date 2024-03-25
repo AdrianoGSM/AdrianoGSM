@@ -3,7 +3,7 @@
 -💻 Minhas principais hard skills são:
 -✔️ JAVA
 -✔️ SQL
--✔️ C++
+-✔️ PYTHON
 -✔️ GIT/ GITHUB
 
 -📖 Cursos:
