@@ -20,11 +20,8 @@
 - 📧 Email: [adrianogustavonovo@gmail.com.com](mailto:adrianogustavonovo@gmail.com.com)
 - 💼 LinkedIn: [https://br.linkedin.com/in/adriano-gustavo-388604287]([https://www.linkedin.com/in/seu-perfil-linkedin](https://br.linkedin.com/in/adriano-gustavo-388604287)/)
 
-## Projetos em Destaque
-- Aqui você pode listar alguns dos seus projetos mais interessantes ou relevantes, com links para os repositórios no GitHub ou sites de demonstração.
-
 ## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=radical)](https://github.com/seu-nome-de-usuario)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=radical)](https://github.com/AdrianoGSM)
 
 ## Linguagens Mais Utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact&theme=radical)](https://github.com/seu-nome-de-usuario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact&theme=radical)](https://github.com/AdrianoGSM)
