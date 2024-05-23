@@ -17,7 +17,7 @@
 - ✔️ Certificado em Java pela DevMedia
 
 ## Contato
-- 📧 Email: [adrianogustavonovo@gmail.com.com](mailto:adrianogustavonovo@gmail.com.com)
+- 📧 Email: [adrianogustavonovo@gmail.com.com](mailto:adrianogustavonovo@gmail.com)
 - 💼 LinkedIn: [https://br.linkedin.com/in/adriano-gustavo-388604287]([https://www.linkedin.com/in/seu-perfil-linkedin](https://br.linkedin.com/in/adriano-gustavo-388604287)/)
 
 ## Estatísticas do GitHub
