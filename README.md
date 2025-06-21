@@ -18,7 +18,6 @@
 
 ## Contato
 - 📧 Email: [adrianogustavonovo@gmail.com.com](mailto:adrianogustavonovo@gmail.com)
-- 💼 LinkedIn: [https://br.linkedin.com/in/adriano-gustavo-388604287]([https://www.linkedin.com/in/seu-perfil-linkedin](https://br.linkedin.com/in/adriano-gustavo-388604287)/)
 
 ## Estatísticas do GitHub
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AdrianoGSM&show_icons=true&theme=radical)](https://github.com/AdrianoGSM)
